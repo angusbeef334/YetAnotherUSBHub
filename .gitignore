@@ -1,3 +1,5 @@
 USBHub-backups/
-#*#
-*.lck
+
+*#*#
+~*.lck
+*.bak
